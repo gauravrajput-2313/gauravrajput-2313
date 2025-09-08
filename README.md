@@ -1,83 +1,97 @@
-<!-- 🌟 Final GitHub Profile README - Stylish + Animated + Interactive -->
-
 <h1 align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="40px" />
-  Hi, I'm <span style="color:#3498db;">Gaurav Rajput</span>
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="40px" alt="Waving Hand" />
+  &nbsp; Hi, I'm Gaurav Rajput
 </h1>
 
-<h3 align="center"><em>Frontend Dev • Game & AI Explorer • DSA Solver in C++</em></h3>
+<h3 align="center">
+  <em>Final Year B.Tech Student @ PSIT | Full-Stack Developer | DSA & AI Enthusiast</em>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Reality;Code+%7C+Creativity+%7C+Curiosity;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+(MERN);Problem+Solver+with+Java+DSA;Exploring+AI-Powered+Web+Solutions;Let's+Collaborate+and+Innovate!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dgauravrajput-2313%26label%3DProfile%2BViews%26color%3D0e75b6%26style%3Dflat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gauravrajput-2313&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
+
+---
+
+### 🚀 About Me
+
+I'm a passionate and driven final-year Computer Science student at **PSIT, Kanpur**. My core expertise lies in building dynamic and responsive web applications using the **MERN stack**. I have a strong foundation in **Data Structures & Algorithms in Java**, which I love applying to solve complex problems.
+
+-   🧠 **Currently Learning:** Advanced concepts in system design and deploying scalable AI models.
+-   🛠️ **Core Skills:** **React**, **Node.js**, **JavaScript/TypeScript**, and **Java (DSA & OOPS)**.
+-   💡 **Interests:** Creating intelligent applications, like my AI-powered financial manager and voice shopping assistant.
+-   💬 **Ask Me About:** Anything related to web development, DSA, or my projects!
+-   📫 **Reach Me:** **gauravrajput2313@gmail.com**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px" alt="Coding GIF">
 </p>
 
-🚀 About Me
-🌱 Exploring: Modern frontend frameworks, AI model deployment, Realistic game physics
+---
 
-🧠 Passionate about: React, GSAP animations, C++ DSA, Game Dev, Machine Learning
+### 🌐 Connect with Me
 
-⚙️ Projects: Built my own Jarvis & a Hill Climb Racing-style game
-
-🛠 Coding Profiles: All in one – Codolio <!-- Please verify this link -->
-
-📄 Resume: Click to View <!-- Please update this link with your resume -->
-
-💬 Ask Me About: React, Vue, GSAP, C++, AI/ML, Game Dev
-
-📫 Reach Me: gauravrajput2313@gmail.com
-
-🌐 Connect with Me
 <p align="center">
-  <a href="https://www.google.com/search?q=https://www.linkedin.com/in/gaurav-rajput-2313/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.google.com/search?q=https://www.instagram.com/gauravrajput2313/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.google.com/search?q=https://www.youtube.com/c/gauravrajput2313"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.google.com/search?q=https://www.hackerrank.com/gauravrajput2313"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.google.com/search?q=https://leetcode.com/u/Gaurav_Rajput2313/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.google.com/search?q=https://codolio.com/profile/Gaurav_Rajput"><img src="https://img.shields.io/badge/Codolio-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.google.com/search?q=https://github.com/gauravrajput-2313"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gaurav-rajput-a60215256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/gauravrajput-2313"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/Gaurav_Rajput2313/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
-🧰 Tech Stack & Tools
+---
+
+### 🧰 Tech Stack & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,vite,git,github,vscode,postman,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" alt="My Tech Stack"/>
 </p>
 
-🏆 GitHub Achievements
-<p align="center">
-  <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dgauravrajput-2313%26theme%3Dalgolia%26margin-w%3D15" />
-</p>
+---
 
-📊 GitHub Stats
+### ✨ Featured Projects
+
+Here are a few projects I'm proud of. You can find more on my repositories tab!
+
+| Project Name                                     | Description                                                               | Tech Stack                       |
+| ------------------------------------------------ | ------------------------------------------------------------------------- | -------------------------------- |
+| **AI Financial Manager** | An AI-powered app to manage, track, and optimize financial transactions.  | `JavaScript` `AI/ML`             |
+| **Voice Shopping Assistant** | A hands-free shopping assistant powered by voice commands.                | `TypeScript` `Web APIs`          |
+| **Personal Portfolio** | A dynamic and responsive website to showcase my skills and projects.      | `JavaScript` `HTML` `CSS` `Java` |
+| **News Website** | A clean interface to fetch and display the latest news from various APIs. | `HTML` `CSS` `JavaScript`        |
+
+---
+
+### 📊 My GitHub Stats
+
 <div align="center">
-  <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgauravrajput-2313%26show_icons%3Dtrue%26theme%3Dtokyonight" height="170" />
-  <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dgauravrajput-2313%26layout%3Dcompact%26theme%3Dtokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravrajput-2313&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravrajput-2313&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravrajput-2313&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dgauravrajput-2313%26theme%3Dtokyonight" height="200" />
-</div>
+---
 
-🐍 Contribution Snake Animation
+### 🏆 GitHub Trophies
+
 <p align="center">
-<!-- This requires a GitHub Action to be set up in your repository. The path should point to the generated SVG file. -->
-  <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/gauravrajput-2313/gauravrajput-2313/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gauravrajput-2313&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
-🎮 Fun Corner
+---
+
+### 🐍 My Contribution Snake
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250px">
+  <img src="https://raw.githubusercontent.com/gauravrajput-2313/gauravrajput-2313/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  <br>
-  <em><b>“Let’s build the future one line of code at a time.”</b></em>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <br>
+  <em><b>“Striving to build the future, one line of code at a time.”</b></em>
 </p>
