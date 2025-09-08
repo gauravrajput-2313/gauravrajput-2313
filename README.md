@@ -76,22 +76,10 @@ Here are a few projects I'm proud of. You can find more on my repositories tab!
 
 ---
 
-### 🏆 GitHub Trophies
 
+### 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravrajput-2313&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/Codngwthubaid/Codngwthubaid/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
-
-### 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gauravrajput-2313/gauravrajput-2313/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  <br>
-  <em><b>“Striving to build the future, one line of code at a time.”</b></em>
-</p>
