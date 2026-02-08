@@ -22,7 +22,7 @@
 I'm a passionate and driven final-year Computer Science student at **PSIT, Kanpur**. My core expertise lies in building dynamic and responsive web applications using the **MERN stack**. I have a strong foundation in **Data Structures & Algorithms in Java**, which I love applying to solve complex problems.
 
 -   🧠 **Currently Learning:** Advanced concepts in system design and deploying scalable AI models.
--   🛠️ **Core Skills:** **React**, **Node.js**, **JavaScript/TypeScript**, and **Java (DSA & OOPS)**.
+-   🛠️ **Core Skills:** **Java (DSA & OOPS)**, **JavaScript/TypeScript**, **React**, **Node.js**,**Next.js**, **Express.js**,**REST APIs**, **JWT**.
 -   💡 **Interests:** Creating intelligent applications, like my AI-powered financial manager and voice shopping assistant.
 -   💬 **Ask Me About:** Anything related to web development, DSA, or my projects!
 -   📫 **Reach Me:** **gauravrajput2313@gmail.com**
